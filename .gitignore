@@ -1,0 +1,27 @@
+# Android / Gradle generated files
+.gradle/
+**/build/
+
+# Local Android SDK and IDE state
+local.properties
+.idea/
+*.iml
+.inspection/
+
+# Signing material and secrets
+*.jks
+*.keystore
+*.p12
+keystore.properties
+
+# Native build intermediates
+.cxx/
+.externalNativeBuild/
+
+# Device captures and local diagnostics
+device-*.png
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db

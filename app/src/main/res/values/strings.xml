@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">脚本终端</string>
+    <string name="add_script">添加脚本</string>
+    <string name="refresh_scripts">刷新脚本</string>
+    <string name="run_script">运行脚本</string>
+    <string name="send_input">发送输入</string>
+    <string name="stop_script">结束当前通道</string>
+    <string name="go_back">返回</string>
+    <string name="script_options">脚本设置</string>
+    <string name="script_metadata_format">%1$s  ·  %2$s  ·  %3$s</string>
+    <string name="refresh_processes">刷新进程</string>
+    <string name="end_process">结束进程</string>
+    <string name="process_details_format">%1$s  ·  CPU %2$.1f%%  ·  %3$s  ·  %4$s</string>
+    <string name="session_details_format">%1$s  ·  %2$s  ·  %3$s  ·  %4$s</string>
+    <string name="state_starting">STARTING</string>
+    <string name="state_running">RUNNING</string>
+    <string name="state_exit_zero">EXIT 0</string>
+    <string name="state_stopped">STOPPED</string>
+    <string name="state_idle">IDLE</string>
+</resources>

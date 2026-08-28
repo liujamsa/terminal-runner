@@ -1,0 +1,11 @@
+FuryTerminal native PTY library
+================================
+
+Source: https://github.com/FuryForm/fury_terminal
+Version: v0.8.0
+Commit: b489c19d08688cb67fe6637154c3bb0ed45fb3b7
+Component: android/terminal-lib/src/main/jniLibs/arm64-v8a/libterm.so
+SHA-256: 78C1B65D7219D0E0E1263DE83664F21C69506B72FEE5E11258EF3C5138B83012
+
+The source files identify the component as MIT licensed. The downloaded v0.8.0
+archive did not include a top-level LICENSE file.
